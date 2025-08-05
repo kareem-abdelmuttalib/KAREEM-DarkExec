@@ -1,16 +1,17 @@
-<div align="center">
+# KAREEM DARK.exe
 
-# <span style="color: #1E90FF;">K</span><span style="color: #FF5733;">A</span><span style="color: #2ECC71;">R</span><span style="color: #F1C40F;">E</span><span style="color: #9B59B6;">E</span><span style="color: #E74C3C;">M</span> <span style="color: #3498DB;">D</span><span style="color: #E67E22;">A</span><span style="color: #2ECC71;">R</span><span style="color: #F1C40F;">K</span><span style="color: #1ABC9C;">.</span><span style="color: #9B59B6;">e</span><span style="color: #E74C3C;">x</span><span style="color: #3498DB;">e</span>
+<p align="center">
+  <img src="KAREEM_DARK_EXE.png" alt="KAREEM DARK.exe" width="100%"/>
+</p>
 
-### *Permanent Windows System Destruction Utility*
+**Permanent Windows System Destruction Utility**
 
-</div>
 
 ---
 
 
 <p align="center">
-  <img src="pc.webp" alt="System Annihilator" width="500"/>
+  <img src="pc.webp" alt="KAREEM DARK.exe" width="500"/>
 </p>
 
 ---
