@@ -1,14 +1,13 @@
 <div align="center">
 
-# <span style="color: #1E90FF;">K</span><span style="color: #FF5733;">A</span><span style="color: #2ECC71;">R</span><span style="color: #F1C40F;">E</span><span style="color: #9B59B6;">E</span><span style="color: #E74C3C;">M</span> <span style="color: #3498DB;">D</span><span style="color: #E67E22;">A</span><span style="color: #2ECC71;">R</span><span style="color: #F1C40F;">K</span><span style="color: #1ABC9C;">E</span><span style="color: #9B59B6;">X</span><span style="color: #E74C3C;">E</span><span style="color: #3498DB;">C</span>
+# <span style="color: #1E90FF;">K</span><span style="color: #FF5733;">A</span><span style="color: #2ECC71;">R</span><span style="color: #F1C40F;">E</span><span style="color: #9B59B6;">E</span><span style="color: #E74C3C;">M</span> <span style="color: #3498DB;">D</span><span style="color: #E67E22;">A</span><span style="color: #2ECC71;">R</span><span style="color: #F1C40F;">K</span><span style="color: #1ABC9C;">.</span><span style="color: #9B59B6;">e</span><span style="color: #E74C3C;">x</span><span style="color: #3498DB;">e</span>
 
-### *"Total System Control Through Stealth Execution"*
+### *Permanent Windows System Destruction Utility*
 
 </div>
 
 ---
 
-# SystemAnnihilator
 
 <p align="center">
   <img src="pc.webp" alt="System Annihilator" width="500"/>
@@ -19,7 +18,7 @@
 ## ⚠️ Legal Warning
 
 This program is a **destructive system utility** designed to irreversibly damage Windows-based operating systems.  
-It performs low-level operations such as boot sector corruption, registry deletion, file encryption, and forced system reboots.
+It executes destructive actions at the system level, such as overwriting the boot sector, deleting critical registry hives, encrypting files, and initiating an immediate forced reboot.
 
 This project is provided **strictly for local experimental use** within isolated test environments.  
 **Running this tool on any system you do not fully own and control is illegal and unethical.**  
@@ -58,3 +57,15 @@ It must be executed with **Administrator privileges** to perform its intended fu
 ```bash
 # Example (Not Included):
 ./SystemAnnihilator.exe
+ذذذ```
+```
+
+---
+
+#  Source Code Availability
+
+The executable (`.exe`) is shared strictly for **controlled testing and documentation purposes only**.  
+The **source code is intentionally not included** in this repository to prevent unauthorized use, replication, or modification.  
+This precaution is taken to reduce the risk of **malicious reuse** or **reverse engineering**.
+
+---
