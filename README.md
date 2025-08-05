@@ -61,7 +61,6 @@ It must be executed with **Administrator privileges** to perform its intended fu
 ```bash
 # Example (Not Included):
 ./SystemAnnihilator.exe
-ذذذ```
 ```
 
 ---
