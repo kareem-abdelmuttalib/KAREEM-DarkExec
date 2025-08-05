@@ -4,7 +4,10 @@
   <img src="KAREEM_DARK_EXE.png" alt="KAREEM DARK.exe" width="100%"/>
 </p>
 
-**Permanent Windows System Destruction Utility**
+---
+
+
+#                      **Permanent Windows System Destruction Utility**
 
 
 ---
